@@ -1,0 +1,17 @@
+h3{
+    color: brown;
+}
+input{
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    background-color: teal;
+    font-size: 20px;
+}
+button{
+    margin-left: 500px;
+    font-size: 20px;
+    background-color: teal;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+}
